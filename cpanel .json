@@ -1,0 +1,20 @@
+{
+  "Cpanel": [
+    {
+      "host": "exemple",
+      "username": "exemple",
+      "password": "exemple"
+    },
+    {
+      "host": "exemple",
+      "username": "exemple",
+      "password": "exemple"
+    },
+    {
+      "host": "exemple",
+      "username": "exemple",
+      "password": "exemple"
+    },
+
+]
+}

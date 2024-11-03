@@ -1,0 +1,18 @@
+[package]
+name = "leak"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+teloxide = "0.13.0"
+tokio = { version = "1", features = ["full"] }
+serde_json = "*"
+serde = "*"
+rand = "*"
+mongodb = "2.0"
+futures = "*"
+regex = "*"
+reqwest = { version = "*" , features = ["blocking"]}
+colored = "*"
+libc = "0.2"
+tldextract = "0.6.0"
